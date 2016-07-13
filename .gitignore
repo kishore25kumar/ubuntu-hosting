@@ -1,0 +1,3 @@
+*.sqlite3
+ubuntu_hosting/.idea/
+*.pyc
